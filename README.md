@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning to work as a Production Engineer as part of the MLH Fellowship
+- 💬 Ask me about anything
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I've lived my entire life with a pacemaker 🫀
+- 📫 How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/nicolas-s-ruiz)
+  - syngenruiz2@gmail.com
