@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've lived my entire life with a pacemaker 🫀
 - 📫 How to reach me:
+  - [My Website](https://nico-ruiz.duckdns.org/)
   - [LinkedIn](https://www.linkedin.com/in/nicolas-s-ruiz)
   - syngenruiz2@gmail.com
